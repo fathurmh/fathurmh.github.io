@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Fathurahman Ma'ruf Hudoarma",
+    "occupation":"Web Design, Back-end Development, Mathematics Simulation, and Parallel Computing",
+    "image":"profile-fathur.jpg",
+    "bio":"Super nerd who loves Visual Studio Code, Linux, and Android and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging and learning new technologies or tools if the need arises.",
+    "email": "fathurmh@gmail.com",
+    "phone": "(+62) 812-2169-5520",
+    "address":{
+      "street":"Sunia St.",
+      "city":"Majalengka",
+      "state":"West Java",
+      "zip": "45468",
+      "country": "Indonesia"
+      },
+    "website": "https://fathurmh.github.io",
+    "resumedownload":"https://raw.githubusercontent.com/fathurmh/Awesome-CV-Fathur/master/examples/Resume.pdf",
+    "cvdownload":"https://raw.githubusercontent.com/fathurmh/Awesome-CV-Fathur/master/examples/CV.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/fathurmh",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://www.twitter.com/fathurmh",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/fathurmh",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/fathurmh",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/fathurmh",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:fathurmh@gmail.com",
+        "className":"fa fa-envelope-o"
+      }
+    ]
+  },
+
+  "experiences":{
+    "education":[
+      {
+        "school":"Telkom University",
+        "degree":"3.66, Bachelor of Science in Computational Science",
+        "graduated":"March 2018",
+        "description":"I have been consistently praised as responsible by my professors and peers. Whether working on academic, extracurricular, or professional projects, i apply proven technical, analytical, and creative thinking skills."
+      }
+    ],
+    "work":[
+      {
+        "company":"PT. Wijaya Kusuma Sukses",
+        "title":"Web Designer (Freelance)",
+        "years":"April 2017 - November 2017",
+        "description":"Design a web application with Content Management System (CMS) that can support and help the administrative supervisor."
+      },
+      {
+        "company":"Indonesian Institute of Science",
+        "title":"Researcher (Internship Program)",
+        "years":"May 2017 - August 2017",
+        "description":"Researched Grid Refinement algorithms to improve accuracy of blood flow simulation with Navier-Stokes equations and Lattice-Boltzmann method."
+      },
+      {
+        "company":"High Performance Computing Research Group Telkom University",
+        "title":"Parallel Computing Division",
+        "years":"January 2017 - May 2017",
+        "description":"Researched parallel algorithms using OpenMP to improve performance and reduce time complexity that implements in Images Overlay with Noise Reduction and Contrast Enhancement."
+      },
+      {
+        "company":"Informatics Laboratory of Telkom University",
+        "title":"Practicum Assistant",
+        "years":"January 2016 - April 2017",
+        "description":"Teach and assist students in practice as needed to establish programming skills and logical analysis."
+      },
+      {
+        "company":"PT. Pos Indonesia",
+        "title":"IT Support (Internship Program)",
+        "years":"May 2016 - July 2016",
+        "description":"Improving the functionality of the software to be more optimal and troubleshooting hardware and software."
+      }
+    ]
+  },
+
+  "skills":{
+    "programming":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"C/C++",
+        "level":"85%"
+      },
+      {
+        "name":"JAVA",
+        "level":"70%"
+      },
+      {
+        "name":"Ruby",
+        "level":"80%"
+      },
+      {
+        "name":"Golang",
+        "level":"65%"
+      }
+    ],
+    "web":[
+      {
+        "name":"Django",
+        "level":"85%"
+      },
+      {
+        "name":"Laravel",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"VueJS",
+        "level":"70%"
+      }
+    ]
+  }
+}
