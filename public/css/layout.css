@@ -341,17 +341,17 @@ ul#nav li.current a { color: #F06000; }
   line-height: 42px;
   border-radius: 3px 0 0 3px;
 }
+.c\# {
+  	-moz-animation: p98 2s ease;
+  	-webkit-animation: p98 2s ease;
+}
 .python {
   	-moz-animation: p90 2s ease;
   	-webkit-animation: p90 2s ease;
 }
-.c\/c\+\+ {
+.c\/c\00002b\00002b {
   	-moz-animation: p85 2s ease;
   	-webkit-animation: p85 2s ease;
-}
-.ruby {
-  	-moz-animation: p80 2s ease;
-  	-webkit-animation: p80 2s ease;
 }
 .java {
   	-moz-animation: p70 2s ease;
@@ -361,19 +361,15 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: p65 2s ease;
   	-webkit-animation: p65 2s ease;
 }
-.django {
+.asp\.net {
+  	-moz-animation: p98 2s ease;
+  	-webkit-animation: p98 2s ease;
+}
+.reactjs {
   	-moz-animation: p85 2s ease;
   	-webkit-animation: p85 2s ease;
 }
-.laravel {
-  	-moz-animation: p75 2s ease;
-  	-webkit-animation: p75 2s ease;
-}
-.reactjs {
-  	-moz-animation: p80 2s ease;
-  	-webkit-animation: p80 2s ease;
-}
-.vuejs {
+.django {
   	-moz-animation: p70 2s ease;
   	-webkit-animation: p70 2s ease;
 }
@@ -385,6 +381,38 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes p100 {
   0%   { width: 0px;  }
   100% { width: 100%;  }
+}
+@-moz-keyframes p99 {
+  0%   { width: 0px;  }
+  100% { width: 99%;  }
+}
+@-webkit-keyframes p99 {
+  0%   { width: 0px;  }
+  100% { width: 99%;  }
+}
+@-moz-keyframes p98 {
+  0%   { width: 0px;  }
+  100% { width: 98%;  }
+}
+@-webkit-keyframes p98 {
+  0%   { width: 0px;  }
+  100% { width: 98%;  }
+}
+@-moz-keyframes p97 {
+  0%   { width: 0px;  }
+  100% { width: 97%;  }
+}
+@-webkit-keyframes p97 {
+  0%   { width: 0px;  }
+  100% { width: 97%;  }
+}
+@-moz-keyframes p96 {
+  0%   { width: 0px;  }
+  100% { width: 96%;  }
+}
+@-webkit-keyframes p96 {
+  0%   { width: 0px;  }
+  100% { width: 96%;  }
 }
 @-moz-keyframes p95 {
   0%   { width: 0px;  }

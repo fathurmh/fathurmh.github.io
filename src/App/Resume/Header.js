@@ -6,6 +6,9 @@ class Header extends Component {
     if (this.props.data) {
       var name = this.props.data.name;
       var occupation = this.props.data.occupation;
+      var job = this.props.data.job;
+      var degree = this.props.data.degree;
+      var college = this.props.data.college;
       var networks = this.props.data.social.map(function (network) {
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
@@ -26,7 +29,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3>I'm a <span>fresh college graduate</span> as <span>B.S. in Computational Science</span> from <span>Telkom University</span> who experienced and interested in <span>{occupation}</span>.</h3>
+            <h3>I'm a <span>{job}</span> as <span>{degree}</span> from <span>{college}</span> who experienced and interested in <span>{occupation}</span>.</h3>
             <hr />
             <ul className="social">
               {networks}
