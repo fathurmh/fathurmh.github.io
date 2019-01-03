@@ -1,15 +1,18 @@
 {
   "main": {
     "name":"Fathurahman Ma'ruf Hudoarma",
-    "occupation":"Web Design, Back-end Development, Mathematics Simulation, and Parallel Computing",
+    "job": "Software Engineer",
+    "degree": "Sarjana in Computational Science",
+    "college": "Telkom University",
+    "occupation": "Web Design, Back-end Development, Mathematics Simulation, and Parallel Computing",
     "image":"profile-fathur.jpg",
-    "bio":"Super nerd who loves Visual Studio Code, Linux, and Android and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging and learning new technologies or tools if the need arises.",
+    "bio":"Super nerd who loves Visual Studio Code, Linux, & Android and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging and learning new technologies or tools if the need arises.",
     "email": "fathurmh@gmail.com",
     "phone": "(+62) 812-2169-5520",
     "address":{
-      "street":"Sunia St.",
+      "street":"Blok Teja No.1 Desa Sunia - Banjaran",
       "city":"Majalengka",
-      "state":"West Java",
+      "state":"Jawa Barat",
       "zip": "45468",
       "country": "Indonesia"
       },
@@ -44,7 +47,7 @@
       },
       {
         "name":"email",
-        "url":"mailto:fathurmh@gmail.com",
+        "url":"mailto:fathur.mh@gmail.com",
         "className":"far fa-envelope"
       }
     ]
@@ -54,12 +57,24 @@
     "education":[
       {
         "school":"Telkom University",
-        "degree":"3.66, Bachelor of Science in Computational Science",
+        "degree":"3.66, Sarjana in Computational Science",
         "graduated":"March 2018",
         "description":"I have been consistently praised as responsible by my professors and peers. Whether working on academic, extracurricular, or professional projects, i apply proven technical, analytical, and creative thinking skills."
       }
     ],
-    "work":[
+    "work": [
+      {
+        "company": "PT. Astra International",
+        "title": "Back-End Developer",
+        "years": "July 2018 - Present",
+        "description": "Developing and maintain PSS4W (Pygmalion Synchronize Server 4 Wheeler), DMS (Daihatsu Mobile Service), DVC (Daihatsu Voice Command), THS (Toyota Home Service), MSA (Mobile Service Advisor) and Mokita Application."
+      },
+      {
+        "company": "PT. Xsis Mitra Utama",
+        "title": "IT Expert",
+        "years": "May 2018 - Present",
+        "description": "Developing products or project softwares from company client."
+      },
       {
         "company":"PT. Wijaya Kusuma Sukses",
         "title":"Web Designer (Freelance)",
@@ -96,6 +111,10 @@
   "skills":{
     "programming":[
       {
+        "name":"C#",
+        "level":"98%"
+      },
+      {
         "name":"Python",
         "level":"90%"
       },
@@ -108,29 +127,21 @@
         "level":"70%"
       },
       {
-        "name":"Ruby",
-        "level":"80%"
-      },
-      {
         "name":"Golang",
         "level":"65%"
       }
     ],
     "web":[
       {
-        "name":"Django",
-        "level":"85%"
-      },
-      {
-        "name":"Laravel",
-        "level":"75%"
+        "name":"ASP.NET",
+        "level":"98%"
       },
       {
         "name":"ReactJS",
-        "level":"80%"
+        "level":"85%"
       },
       {
-        "name":"VueJS",
+        "name":"Django",
         "level":"70%"
       }
     ]
